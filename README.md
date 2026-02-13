@@ -1,3 +1,2 @@
 # Pinzus
-Prove
-Weeelaa!!
+Hello!
